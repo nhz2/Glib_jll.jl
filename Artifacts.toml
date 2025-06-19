@@ -1,160 +1,160 @@
 [[Glib]]
 arch = "aarch64"
-git-tree-sha1 = "c5f06c08f126449184e190df8c07f75eb216abe3"
+git-tree-sha1 = "fd43459d00ad88c3ee4e96841dca7e1dd19915c5"
 os = "macos"
 
     [[Glib.download]]
-    sha256 = "32c281fb03ae3c0560758052997e11756777ee53c588614984b58c04893a8215"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "a2d1e6300d5fe81c75cf38f764a9cbda9c491ce45cf305108594a5335ee09dc0"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.aarch64-apple-darwin.tar.gz"
 [[Glib]]
 arch = "aarch64"
-git-tree-sha1 = "2058b9312dcaa9aae9fc41e4af5e60b478137a0f"
+git-tree-sha1 = "64bf5a5133f2202b3f5d5ebb4903d401a3f57bf4"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "92df8ebfa832397153c110650f2bedc2e06f25fd5ce0175062257afd0cd83aa7"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "933d645ed594ad933abe82d94f380e6909ae063c6f9c8f3e421560a43c4d74e4"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.aarch64-linux-gnu.tar.gz"
 [[Glib]]
 arch = "aarch64"
-git-tree-sha1 = "cdda5149e133d6fc78865aedb568bc39ae6591f9"
+git-tree-sha1 = "0a9493f26f2ffefee2e2829ea351fe880a17d8fc"
 libc = "musl"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "571c33e61b5d42cf07d5f3f58fee93b82536844f0e03b6f1d7dd3434a59cc60d"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.aarch64-linux-musl.tar.gz"
+    sha256 = "e8cd53333ea4741b81d26719ce00945b6ccfbf7d227a5ba42f813fe0eb8f947f"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.aarch64-linux-musl.tar.gz"
 [[Glib]]
 arch = "aarch64"
-git-tree-sha1 = "f2c0729113777e37653aad49e6f1f179acaacf42"
+git-tree-sha1 = "e391a1488f3d4f829fcc3cd559cea04a649a1634"
 os = "freebsd"
 
     [[Glib.download]]
-    sha256 = "28f75672e10e825d103e95b77104bf402c94be7f3001506c405d5d433da7f11c"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "2addfb3f007aebdc1b5e615b9c7162fccfd1366f651caabd80349cd1bb8d52a0"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.aarch64-unknown-freebsd.tar.gz"
 [[Glib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9f056adf75085a891fce5a8b2aefc69e9d0ca59f"
+git-tree-sha1 = "7160ba630fb30043feef2cbbab0e883f9f4cd263"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "a04304c69346e6c98c9e0baa08a5f3dc56a40cbe09e49c8440406d2134a6f69b"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "48b734f3fb2c0b3e39821edb6aee22969040d786dd36743ccbd3f329afb21bb1"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.armv6l-linux-gnueabihf.tar.gz"
 [[Glib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c842fb380d622726449e896a2565f1185f55fcba"
+git-tree-sha1 = "f3245a6b26cd7704ea240443ff81615c9d7bb1c0"
 libc = "musl"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "3eab5547cc178151bcc87267352f0cc509a1e00137c5db150247392af678d586"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "2679bb78519dd4d6151faa21882faf2dcce34d62337930893e2f926c36a06d01"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.armv6l-linux-musleabihf.tar.gz"
 [[Glib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e7e43a35a4c8949243a55e21f90408c288d145d3"
+git-tree-sha1 = "8f03c76741fa2943a969ffb52fef09ed7959692c"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "5f9368a4fb92a3587361ccf3f369eac91af6c749485ccf3f05a0a1811884443b"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c768e758f07c35d98fdb2eaee9f7b609e3fd6d9c22abb2d01bc6fe344b08b834"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.armv7l-linux-gnueabihf.tar.gz"
 [[Glib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "591c15c0ac5c7d27291ab126840bb656023e103b"
+git-tree-sha1 = "8f4d56d9d3bea85f05c31c0cae31a136eb9d383c"
 libc = "musl"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "11ca26f5ff7608ed7ba83adfc6a923e27e5afa886665d2a225c139c9b4eb59aa"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "506f9e9d2c574fe3cc733ce29429aab7a8b1655fa057168614f89dfaea3faea8"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.armv7l-linux-musleabihf.tar.gz"
 [[Glib]]
 arch = "i686"
-git-tree-sha1 = "3f437480bbaa0307c4cb1377363cecff80bdacc5"
+git-tree-sha1 = "9bb5fb060de67fb14ff5ffdc87228b299a9864f5"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "de9704c5410e5978d354ef7fc9e9f17571fed278009fd173528af6a9835ecee7"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.i686-linux-gnu.tar.gz"
+    sha256 = "278eb4dcc5d85b24cf5c9154f5d0fcae61844d43b768ecf26a61b0ad46c43938"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.i686-linux-gnu.tar.gz"
 [[Glib]]
 arch = "i686"
-git-tree-sha1 = "bc1b431dc39b1f973ce33d47e276558273c8a1d2"
+git-tree-sha1 = "130078a8dd67078236b6bb251a7ce5f1077ccee7"
 libc = "musl"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "451cdc923e29601bb3d810c54849c7e151e7fe7924e594e501048e0227ef4aec"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.i686-linux-musl.tar.gz"
+    sha256 = "c241f9a978aafb95fe520da78216996ba2e30aed95900ba58e198242efa54e5e"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.i686-linux-musl.tar.gz"
 [[Glib]]
 arch = "i686"
-git-tree-sha1 = "4bcf7575730aa47e338249e07fc94b04c5d6569f"
+git-tree-sha1 = "d6ebda0017fbcbdeb1207411b1efe828fbd85227"
 os = "windows"
 
     [[Glib.download]]
-    sha256 = "01262b50c3e64d00373b6c2dedfbf90146320283bef9a6a5c2924c379d29d2ba"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.i686-w64-mingw32.tar.gz"
+    sha256 = "79bb06eadc2903817a1169551498a449fcc99f1c98e00d359d8175befc85b885"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.i686-w64-mingw32.tar.gz"
 [[Glib]]
 arch = "powerpc64le"
-git-tree-sha1 = "275248b22f0378068ea05bbff1b6cb0c9c7794e8"
+git-tree-sha1 = "1b9fa0c490ba29f4972e780d66d92071cce00bd3"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "7c7aacc6ace40a8bbdda7174ef0d77e683569c61d68b0cf0af794f2be23574f6"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ff8306c77f5f1f9c7dcdcad1b03b6d2ff5c6e90886e06f3df3ab4a8d99bf9c30"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.powerpc64le-linux-gnu.tar.gz"
 [[Glib]]
 arch = "riscv64"
-git-tree-sha1 = "25125a3edd58f149797bd32088a1978584577749"
+git-tree-sha1 = "d9f684bf856a87fb90b331aa629b28735169e073"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "1e17f39f19e7dc9f3c9b56157e969fb8e1a6249414c015bbf3dacd9536abfa55"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "9e36d5d19d3d5220ec9c89869bf751a646fe97b0051df476fe33fed8e21e87bc"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.riscv64-linux-gnu.tar.gz"
 [[Glib]]
 arch = "x86_64"
-git-tree-sha1 = "7c193592c7492b695d7fb7f060e7f8f80c653f3e"
+git-tree-sha1 = "e6930b0ea8aad6ffdda22e1b025ba63f096e7816"
 os = "macos"
 
     [[Glib.download]]
-    sha256 = "5080a2e42d2f5aae735c26dcd80a8e5b563d01455ee211a70c9585762993e295"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "95dd6cec08d568bd451d7bec3bab96af9fe250368d4a215ba0958da320c12f4c"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.x86_64-apple-darwin.tar.gz"
 [[Glib]]
 arch = "x86_64"
-git-tree-sha1 = "00629b84eb77005811d6e28308af806e9d3de0a5"
+git-tree-sha1 = "18dc77c6166dfe4ffcd8ef44d14dc7497745d90c"
 libc = "glibc"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "17cd19f0568da1e749b5e2006cea01749c22c365804d060b938b14d1c8be47ee"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "dfecee3cd20fcf9b9b36b6ac47583ed723597828d5c46f807487877b798a78de"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.x86_64-linux-gnu.tar.gz"
 [[Glib]]
 arch = "x86_64"
-git-tree-sha1 = "2369163f8f66c9161436f0d28f12b0b350fd4bf4"
+git-tree-sha1 = "89411e834ca385e8f5920ae64240662143172ce8"
 libc = "musl"
 os = "linux"
 
     [[Glib.download]]
-    sha256 = "4c9cee74fac82ddc9a3ba11e48ed43c83d47ccc6dffd6a16ed126228829b8f2e"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f5bdb9f05b254c5554b1e8ee0d44df91e650f11496768c683875c122cde148fc"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.x86_64-linux-musl.tar.gz"
 [[Glib]]
 arch = "x86_64"
-git-tree-sha1 = "813e0fa104989a08b86aa7a72c3b444f3c4d0e3a"
+git-tree-sha1 = "38108b10e1818c49fd5b9b1b4e2b5def3b7ce437"
 os = "freebsd"
 
     [[Glib.download]]
-    sha256 = "a74ec7be0f830ece6782a95f86c58fec4038764474e478c35efa945f5d3b28e1"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8809399416960b4b4f5582e76e8c2c72166e0358d2376f4d88be433c0557957e"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.x86_64-unknown-freebsd.tar.gz"
 [[Glib]]
 arch = "x86_64"
-git-tree-sha1 = "014c86a5988d6457ef4e868187d081132e791193"
+git-tree-sha1 = "354b612e346f34e9bff779501b1443f6d867bccd"
 os = "windows"
 
     [[Glib.download]]
-    sha256 = "844185603a634ce0941d7e7bb8e1ed471d86a679257fecca01a1b2bed28ea2b0"
-    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.0+1/Glib.v2.84.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "af5003fb9997b48febada3e2bd250012dff62282f2bab2d8503a473488d873ff"
+    url = "https://github.com/nhz2/Glib_jll.jl/releases/download/Glib-v2.84.3+0/Glib.v2.84.3.x86_64-w64-mingw32.tar.gz"
